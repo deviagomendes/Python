@@ -1,0 +1,13 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "workbench.colorCustomizations": {
+        "[Dracula]": {
+            "editor.background": "#161519",
+            "sideBar.background": "#25282a",
+            "activityBar.background": "#18181b",
+            "titleBar.activeBackground": "#18181b",
+            "terminal.background": "#1c1d20"
+        }
+    },
+    "python.analysis.typeCheckingMode": "basic"
+}
